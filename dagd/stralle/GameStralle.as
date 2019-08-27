@@ -5,7 +5,8 @@
 	public class GameStralle extends Game {
 
 		public function GameStralle() {
-			
+			creatorName = "Rocco Stralle";
+			gameTitle = "Yes Ok Thanks";
 		}
 	}
 }
